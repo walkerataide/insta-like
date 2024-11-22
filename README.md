@@ -1,4 +1,4 @@
-# Alura - Imersão back-end
+# Back-end com node.js
 
 Este é o repositório do front-end do projeto.
 
